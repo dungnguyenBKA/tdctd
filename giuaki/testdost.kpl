@@ -1,0 +1,6 @@
+Program Test;
+
+VAR A : ARRAY(.10.) OF T;
+    I:double;
+    D:STRING;
+    G:INTEGER;
